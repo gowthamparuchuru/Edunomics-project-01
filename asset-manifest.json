@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/edunomics-project-01/static/css/main.ee4a0c10.chunk.css",
-    "main.js": "/edunomics-project-01/static/js/main.6c38725a.chunk.js",
-    "main.js.map": "/edunomics-project-01/static/js/main.6c38725a.chunk.js.map",
+    "main.css": "/edunomics-project-01/static/css/main.cabbb3cb.chunk.css",
+    "main.js": "/edunomics-project-01/static/js/main.3a2edb9c.chunk.js",
+    "main.js.map": "/edunomics-project-01/static/js/main.3a2edb9c.chunk.js.map",
     "runtime-main.js": "/edunomics-project-01/static/js/runtime-main.0a1bed06.js",
     "runtime-main.js.map": "/edunomics-project-01/static/js/runtime-main.0a1bed06.js.map",
     "static/css/2.ecffae5e.chunk.css": "/edunomics-project-01/static/css/2.ecffae5e.chunk.css",
     "static/js/2.b6c0d686.chunk.js": "/edunomics-project-01/static/js/2.b6c0d686.chunk.js",
     "static/js/2.b6c0d686.chunk.js.map": "/edunomics-project-01/static/js/2.b6c0d686.chunk.js.map",
     "index.html": "/edunomics-project-01/index.html",
-    "precache-manifest.1cd8519759d405d15326e4cd88ab5b9d.js": "/edunomics-project-01/precache-manifest.1cd8519759d405d15326e4cd88ab5b9d.js",
+    "precache-manifest.388cfa316ee35b82653a79ab25bd2676.js": "/edunomics-project-01/precache-manifest.388cfa316ee35b82653a79ab25bd2676.js",
     "service-worker.js": "/edunomics-project-01/service-worker.js",
     "static/css/2.ecffae5e.chunk.css.map": "/edunomics-project-01/static/css/2.ecffae5e.chunk.css.map",
-    "static/css/main.ee4a0c10.chunk.css.map": "/edunomics-project-01/static/css/main.ee4a0c10.chunk.css.map",
+    "static/css/main.cabbb3cb.chunk.css.map": "/edunomics-project-01/static/css/main.cabbb3cb.chunk.css.map",
     "static/js/2.b6c0d686.chunk.js.LICENSE.txt": "/edunomics-project-01/static/js/2.b6c0d686.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0a1bed06.js",
     "static/css/2.ecffae5e.chunk.css",
     "static/js/2.b6c0d686.chunk.js",
-    "static/css/main.ee4a0c10.chunk.css",
-    "static/js/main.6c38725a.chunk.js"
+    "static/css/main.cabbb3cb.chunk.css",
+    "static/js/main.3a2edb9c.chunk.js"
   ]
 }
