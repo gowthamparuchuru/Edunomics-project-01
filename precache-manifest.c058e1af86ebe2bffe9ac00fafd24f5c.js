@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b5caff4b35045f4b7841bff4ee26e89",
+    "revision": "c4352f4dc0cfb69f9cb894f415e0375c",
     "url": "/edunomics-project-01/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/edunomics-project-01/static/css/2.ecffae5e.chunk.css"
   },
   {
-    "revision": "a39fc8a7ff792fddf259",
+    "revision": "b338942d3b1fa8540541",
     "url": "/edunomics-project-01/static/css/main.fec6e7f9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/edunomics-project-01/static/js/2.05fcbe34.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a39fc8a7ff792fddf259",
-    "url": "/edunomics-project-01/static/js/main.3f0bd8bb.chunk.js"
+    "revision": "b338942d3b1fa8540541",
+    "url": "/edunomics-project-01/static/js/main.59072540.chunk.js"
   },
   {
     "revision": "1cb2a5509c2353229a12",

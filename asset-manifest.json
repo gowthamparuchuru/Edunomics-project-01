@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/edunomics-project-01/static/css/main.fec6e7f9.chunk.css",
-    "main.js": "/edunomics-project-01/static/js/main.3f0bd8bb.chunk.js",
-    "main.js.map": "/edunomics-project-01/static/js/main.3f0bd8bb.chunk.js.map",
+    "main.js": "/edunomics-project-01/static/js/main.59072540.chunk.js",
+    "main.js.map": "/edunomics-project-01/static/js/main.59072540.chunk.js.map",
     "runtime-main.js": "/edunomics-project-01/static/js/runtime-main.0a1bed06.js",
     "runtime-main.js.map": "/edunomics-project-01/static/js/runtime-main.0a1bed06.js.map",
     "static/css/2.ecffae5e.chunk.css": "/edunomics-project-01/static/css/2.ecffae5e.chunk.css",
     "static/js/2.05fcbe34.chunk.js": "/edunomics-project-01/static/js/2.05fcbe34.chunk.js",
     "static/js/2.05fcbe34.chunk.js.map": "/edunomics-project-01/static/js/2.05fcbe34.chunk.js.map",
     "index.html": "/edunomics-project-01/index.html",
-    "precache-manifest.8b2ac6d372cf6b39fe07da8d82981132.js": "/edunomics-project-01/precache-manifest.8b2ac6d372cf6b39fe07da8d82981132.js",
+    "precache-manifest.c058e1af86ebe2bffe9ac00fafd24f5c.js": "/edunomics-project-01/precache-manifest.c058e1af86ebe2bffe9ac00fafd24f5c.js",
     "service-worker.js": "/edunomics-project-01/service-worker.js",
     "static/css/2.ecffae5e.chunk.css.map": "/edunomics-project-01/static/css/2.ecffae5e.chunk.css.map",
     "static/css/main.fec6e7f9.chunk.css.map": "/edunomics-project-01/static/css/main.fec6e7f9.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.ecffae5e.chunk.css",
     "static/js/2.05fcbe34.chunk.js",
     "static/css/main.fec6e7f9.chunk.css",
-    "static/js/main.3f0bd8bb.chunk.js"
+    "static/js/main.59072540.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/edunomics-project-01/precache-manifest.8b2ac6d372cf6b39fe07da8d82981132.js"
+  "/edunomics-project-01/precache-manifest.c058e1af86ebe2bffe9ac00fafd24f5c.js"
 );
 
 self.addEventListener('message', (event) => {
