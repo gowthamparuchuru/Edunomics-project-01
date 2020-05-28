@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/edunomics-project-01/static/css/main.cabbb3cb.chunk.css",
-    "main.js": "/edunomics-project-01/static/js/main.3a2edb9c.chunk.js",
-    "main.js.map": "/edunomics-project-01/static/js/main.3a2edb9c.chunk.js.map",
+    "main.css": "/edunomics-project-01/static/css/main.fec6e7f9.chunk.css",
+    "main.js": "/edunomics-project-01/static/js/main.3f0bd8bb.chunk.js",
+    "main.js.map": "/edunomics-project-01/static/js/main.3f0bd8bb.chunk.js.map",
     "runtime-main.js": "/edunomics-project-01/static/js/runtime-main.0a1bed06.js",
     "runtime-main.js.map": "/edunomics-project-01/static/js/runtime-main.0a1bed06.js.map",
     "static/css/2.ecffae5e.chunk.css": "/edunomics-project-01/static/css/2.ecffae5e.chunk.css",
-    "static/js/2.b6c0d686.chunk.js": "/edunomics-project-01/static/js/2.b6c0d686.chunk.js",
-    "static/js/2.b6c0d686.chunk.js.map": "/edunomics-project-01/static/js/2.b6c0d686.chunk.js.map",
+    "static/js/2.05fcbe34.chunk.js": "/edunomics-project-01/static/js/2.05fcbe34.chunk.js",
+    "static/js/2.05fcbe34.chunk.js.map": "/edunomics-project-01/static/js/2.05fcbe34.chunk.js.map",
     "index.html": "/edunomics-project-01/index.html",
-    "precache-manifest.388cfa316ee35b82653a79ab25bd2676.js": "/edunomics-project-01/precache-manifest.388cfa316ee35b82653a79ab25bd2676.js",
+    "precache-manifest.8b2ac6d372cf6b39fe07da8d82981132.js": "/edunomics-project-01/precache-manifest.8b2ac6d372cf6b39fe07da8d82981132.js",
     "service-worker.js": "/edunomics-project-01/service-worker.js",
     "static/css/2.ecffae5e.chunk.css.map": "/edunomics-project-01/static/css/2.ecffae5e.chunk.css.map",
-    "static/css/main.cabbb3cb.chunk.css.map": "/edunomics-project-01/static/css/main.cabbb3cb.chunk.css.map",
-    "static/js/2.b6c0d686.chunk.js.LICENSE.txt": "/edunomics-project-01/static/js/2.b6c0d686.chunk.js.LICENSE.txt"
+    "static/css/main.fec6e7f9.chunk.css.map": "/edunomics-project-01/static/css/main.fec6e7f9.chunk.css.map",
+    "static/js/2.05fcbe34.chunk.js.LICENSE.txt": "/edunomics-project-01/static/js/2.05fcbe34.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0a1bed06.js",
     "static/css/2.ecffae5e.chunk.css",
-    "static/js/2.b6c0d686.chunk.js",
-    "static/css/main.cabbb3cb.chunk.css",
-    "static/js/main.3a2edb9c.chunk.js"
+    "static/js/2.05fcbe34.chunk.js",
+    "static/css/main.fec6e7f9.chunk.css",
+    "static/js/main.3f0bd8bb.chunk.js"
   ]
 }

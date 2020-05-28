@@ -6,6 +6,9 @@ h4 {
   font-family: "Ubuntu", sans-serif;
   font-weight: bold;
 }
+html {
+  background-color: #f9f6f7;
+}
 
 /* -------------------Other Styles------------------------ */
 
