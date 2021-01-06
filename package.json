@@ -5,7 +5,7 @@
   "homepage": "https://gowthamparuchuru.github.io/edunomics-project-01/",
   "dependencies": {
     "@material-ui/core": "^4.9.14",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
     "bootstrap-switch-button-react": "^1.2.0",
     "gh-pages": "^2.2.0",
